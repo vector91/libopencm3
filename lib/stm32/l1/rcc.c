@@ -1,6 +1,6 @@
-/** @defgroup STM32L1xx-rcc-file RCC
+/** @defgroup rcc_file RCC peripheral API
 
-@ingroup STM32L1xx
+@ingroup peripheral_apis
 
 @brief <b>libopencm3 STM32L1xx Reset and Clock Control</b>
 
